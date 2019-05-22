@@ -1,2 +1,12 @@
 # Chat-Bot
-Custom chat bot or chat agent for automated chat replies for FAQs. It uses different features of Apache OpenNLP for understanding what user is asking for. NLP is natural language processing.
+[![Build Status](https://travis-ci.org/Knlsharma/standford-core-nlp.svg?branch=master)](Needs_configured)
+
+
+  ## Intsalltion Steps
+   1. Need of java-8 to be installed in required system.
+   2. Direct Download zip or via svn.
+   3. Setting POM Dependencies (if needed).
+  
+  ## Build and Run
+   1. Install maven or Use IDE.
+   2. Run via CMD/IDE.
