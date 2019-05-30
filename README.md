@@ -1,5 +1,5 @@
 # Chat-Bot
-[![Build Status](https://travis-ci.org/Knlsharma/standford-core-nlp.svg?branch=master)](Needs_configured)
+[![Build Status](https://travis-ci.org/Knlsharma/Chat-Bot.svg?branch=master)]
 
 
   ## Intsalltion Steps
