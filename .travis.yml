@@ -3,3 +3,6 @@ jdk: oraclejdk8
 script: mvn clean verify -B
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+  env:
+  global:
+    - CODECOV_TOKEN="8309414c-078f-4368-8b11-7716511e06a7"
