@@ -1,5 +1,5 @@
 # Chat-Bot
-[![Build Status](https://travis-ci.org/Knlsharma/Chat-Bot.svg?branch=master)]
+[![Build Status](https://travis-ci.com/Knlsharma/Chat-Bot.svg?branch=master)](https://travis-ci.com/Knlsharma/Chat-Bot)
 
 
   ## Intsalltion Steps
